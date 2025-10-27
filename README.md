@@ -16,8 +16,6 @@ No API keys or cloud required — research, analyze, and summarize market trends
 - 💡 [Example Outputs](#-example-outputs)
 - 🔧 [Troubleshooting & FAQ](#-troubleshooting--faq)
 - ☁️ [Deployment](#-deployment)
-- 📞 [Community & Support](#-community--support)
-- 📜 [License & Credits](#-license--credits)
 
 ---
 
